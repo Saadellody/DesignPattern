@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural Patterns/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Structural Patterns/Adapter Pattern/Adapter Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/Factory pattern/Factory pattern.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/Factory pattern/Factory pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/Signelton pattern/Signelton pattern.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/Signelton pattern/Signelton pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural Patterns/Structural Patterns.iml" filepath="$PROJECT_DIR$/Structural Patterns/Structural Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/builder patter/builder patter.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/builder patter/builder patter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/design patterns.iml" filepath="$PROJECT_DIR$/.idea/design patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/prototype pattern/prototype pattern.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/prototype pattern/prototype pattern.iml" />
