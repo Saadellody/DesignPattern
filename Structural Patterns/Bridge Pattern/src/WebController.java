@@ -5,11 +5,5 @@ public class WebController extends Controller{
         super(device);
     }
 
-    public void down(){
-        device.turnOff();
-    }
 
-    public void up(){
-        device.turnOn();
-    }
 }
