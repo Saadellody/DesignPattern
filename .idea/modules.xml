@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/Abstract Factory Pattern/Abstract Factory Pattern.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/Abstract Factory Pattern/Abstract Factory Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural Patterns/Adapter Pattern/Adapter Pattern.iml" filepath="$PROJECT_DIR$/Structural Patterns/Adapter Pattern/Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structural Patterns/Bridge Pattern/Bridge Pattern.iml" filepath="$PROJECT_DIR$/Structural Patterns/Bridge Pattern/Bridge Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/Factory pattern/Factory pattern.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/Factory pattern/Factory pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Creationnal Patterns/Signelton pattern/Signelton pattern.iml" filepath="$PROJECT_DIR$/Creationnal Patterns/Signelton pattern/Signelton pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Structural Patterns/Structural Patterns.iml" filepath="$PROJECT_DIR$/Structural Patterns/Structural Patterns.iml" />
