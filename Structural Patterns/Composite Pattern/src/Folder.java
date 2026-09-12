@@ -6,8 +6,9 @@ public class Folder implements FileSystem{
     String name;
     private List<FileSystem> fileSystems=new ArrayList<>();
 
-    public  Folder(String name, ArrayList<FileSystem> files){
+    public  Folder(String name, List<FileSystem> files){
         this.name=name;
+        this.fileSystems=files;
     }
 
     public  void add(FileSystem fileSystem){
